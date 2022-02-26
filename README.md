@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umar Saleem..
-- 👀 I’m interested in Programming and Ethical Hacking / Security
+- 👀 I’m interested in Programming and creating Web Apps.
 - 🌱 I’m currently learning in BSE Software Engineering.
 - 💞️ I’m looking to collaborate on LovelyFriends
 - 📫 How to reach me umarraja230@gmail.com / umarsaleemdev@gmail.com
