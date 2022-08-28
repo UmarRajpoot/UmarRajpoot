@@ -7,7 +7,7 @@
 
 
 ### Currently ###
-- Learning Data Science and Machine Learning 🤩👌
+- ### Learning Data Science and Machine Learning 🤩👌
 
 ### Stats ###
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarRajpoot)
