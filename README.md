@@ -55,7 +55,7 @@ With a focus on **end-to-end development**, I specialize in combining **AI-drive
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: [Portfolio/UmarSaleem (NEW Coming Soon)](https://umarsaleem-portfolio.netlify.app)
-- 🏢 Company: [biznhand.com (Coming Soon)](https://biznhand.com)  
+- 🏢 Company: [biznhand.com](https://biznhand.com)  
 - ✉️ Email: [Contact on Email](mailto:umarsaleemdev@gmail.com)  
 - 💼 LinkedIn: [linkedin](https://linkedin.com/in/umarsaleem-dev)
 
